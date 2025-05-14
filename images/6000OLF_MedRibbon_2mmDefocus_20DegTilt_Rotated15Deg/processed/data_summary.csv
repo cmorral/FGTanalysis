@@ -1,10 +1,10 @@
-File name,Temperature (K),Light pixel to total pixel ratio,Number of peaks across vertical line profile,Avg peak spacing (nm),Standard Deviation of Peak Spacing (nm)
-OneView_200kV_10kX_FGT_A1_0046_156K_2.25um.png,156,0.44,11,1932.796,682.336
-OneView_200kV_10kX_FGT_A1_0019_037K_2.25um.png,37,0.506,12,2375.091,838.48
-OneView_200kV_10kX_FGT_A1_0036_103K_2.25um.png,103,0.496,13,2918.599,1030.355
-OneView_200kV_10kX_FGT_A1_0040_130K_2.25um.png,130,0.483,12,3586.482,1266.138
-OneView_200kV_10kX_FGT_A1_0038_124K_2.25um.png,124,0.484,11,4407.2,1555.877
-OneView_200kV_10kX_FGT_A1_0029_061K_2.25um.png,61,0.503,10,5415.729,1911.919
-OneView_200kV_10kX_FGT_A1_0012_019K_2.25um.png,19,0.513,11,6655.047,2349.436
-OneView_200kV_10kX_FGT_A1_0032_080K_2.25um.png,80,0.5,9,8177.966,2887.073
-OneView_200kV_10kX_FGT_A1_0042_140K_2.25um.png,140,0.457,10,10049.385,3547.742
+File name,Temperature (K),Light pixel to total pixel ratio,Number of peaks across vertical line profile,Avg peak spacing (nm),error on avg peak spacing (nm),Standard Deviation of Peak Spacing averaged over 4 line profiles(nm),error on std avg(nm)
+OneView_200kV_10kX_FGT_A1_0046_156K_2.25um.png,156,0.44,10.5,121.975,5.21,68.126,6.118
+OneView_200kV_10kX_FGT_A1_0019_037K_2.25um.png,37,0.506,8.0,158.393,16.168,101.253,13.804
+OneView_200kV_10kX_FGT_A1_0036_103K_2.25um.png,103,0.496,9.25,149.795,7.479,63.241,3.082
+OneView_200kV_10kX_FGT_A1_0040_130K_2.25um.png,130,0.483,10.75,126.132,8.365,72.12,4.807
+OneView_200kV_10kX_FGT_A1_0038_124K_2.25um.png,124,0.484,10.0,144.358,16.446,50.307,16.404
+OneView_200kV_10kX_FGT_A1_0029_061K_2.25um.png,61,0.503,11.0,133.447,11.815,68.849,6.587
+OneView_200kV_10kX_FGT_A1_0012_019K_2.25um.png,19,0.513,7.5,187.341,27.309,69.553,12.18
+OneView_200kV_10kX_FGT_A1_0032_080K_2.25um.png,80,0.5,10.25,147.995,16.137,58.316,16.972
+OneView_200kV_10kX_FGT_A1_0042_140K_2.25um.png,140,0.457,8.75,162.315,9.297,51.466,14.407
