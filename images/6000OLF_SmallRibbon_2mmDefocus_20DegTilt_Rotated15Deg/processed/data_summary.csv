@@ -1,0 +1,10 @@
+File name,Temperature (K),Light pixel to total pixel ratio,Number of peaks across vertical line profile,Avg peak spacing (nm),error on avg peak spacing (nm),Standard Deviation of Peak Spacing averaged over 4 line profiles(nm),error on std avg(nm)
+OneView_200kV_10kX_FGT_A1_0029_061K_2.5by1.136um.png,61,0.72,3.75,150.598,8.545,26.652,9.23
+OneView_200kV_10kX_FGT_A1_0042_140K_2.5by1.36um.png,140,0.717,4.75,127.962,23.602,51.089,9.017
+OneView_200kV_10kX_FGT_A1_0036_103K_2.5by1.36um.png,103,0.714,4.25,141.769,10.914,66.201,5.172
+OneView_200kV_10kX_FGT_A1_0010_017K_2.5by1.36um.png,17,0.726,3.0,149.879,18.297,24.623,12.819
+OneView_200kV_10kX_FGT_A1_0038_124K_2.5by1.36um.png,124,0.721,4.25,140.435,15.062,39.447,15.822
+OneView_200kV_10kX_FGT_A1_0012_019K_2.5by1.36um.png,19,0.725,3.0,167.844,15.151,22.744,24.651
+OneView_200kV_10kX_FGT_A1_0046_156K_2.5by1.36um.png,156,0.732,5.5,102.924,6.429,48.448,3.634
+OneView_200kV_10kX_FGT_A1_0019_037K_2.5by1.36um.png,37,0.722,4.0,145.208,26.764,34.408,9.053
+OneView_200kV_10kX_FGT_A1_0032_080K_2.5by1.36um.png,80,0.725,4.25,137.622,12.763,30.33,11.892
